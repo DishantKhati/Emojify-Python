@@ -111,7 +111,6 @@ if __name__ == '__main__':
     lmain2.place(x=900,y=350)
     
 
-
     root.title("Photo To Emoji")            
     root.geometry("1400x900+100+10") 
     root['bg']='black'
